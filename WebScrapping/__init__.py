@@ -1,0 +1,1 @@
+from .web_scrapping_controller import WebScrappingController

@@ -1,5 +1,5 @@
 # IaraWebScrapping
-This repository is a test for IARA Technology in Supply Chain https://www.iara.tech/
+This repository is a test
 
 ## Execute:
 for execute this project, first install in your environment using command
